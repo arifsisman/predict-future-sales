@@ -13,8 +13,7 @@ month. Creating a robust model that can handle such situations is part of the ch
 ### 1.1. File descriptions
 
 - sales_train.csv - the training set. Daily historical data from January 2013 to October 2015.
-- test.csv - the test set. You need to forecast the sales for these shops and products for November
- 2015.
+- test.csv - the test set. You need to forecast the sales for these shops and products for November 2015.
 - sample_submission.csv - a sample submission file in the correct format.
 - items.csv - supplemental information about the items/products.
 - item_categories.csv - supplemental information about the items categories.
@@ -171,34 +170,34 @@ GPU (CUDA).
 
 #### 6.1.1.Related Works
 
-- https://www.bioinf.jku.at/publications/older/2604.pdf^
-- https://pdfs.semanticscholar.org/e10f/98b86797ebf6c8caea6f54cacbc5a50e8b34.pdf^
-- [http://pages.stat.wisc.edu/~loh/treeprogs/guide/eqr.pdf](http://pages.stat.wisc.edu/~loh/treeprogs/guide/eqr.pdf)^
-- https://pdfs.semanticscholar.org/6d4a/347b99d056b7b1f28218728f1b73e64cbbac.pdf^
-- https://pdfs.semanticscholar.org/72d2/e19a374a0353689dc6af54e904b9300f5fed.pdf^
+- https://www.bioinf.jku.at/publications/older/2604.pdf
+- https://pdfs.semanticscholar.org/e10f/98b86797ebf6c8caea6f54cacbc5a50e8b34.pdf
+- [http://pages.stat.wisc.edu/~loh/treeprogs/guide/eqr.pdf](http://pages.stat.wisc.edu/~loh/treeprogs/guide/eqr.pdf)
+- https://pdfs.semanticscholar.org/6d4a/347b99d056b7b1f28218728f1b73e64cbbac.pdf
+- https://pdfs.semanticscholar.org/72d2/e19a374a0353689dc6af54e904b9300f5fed.pdf
 
 #### 6.1.2.MATLAB
 
-- https://www.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html^
-- https://www.mathworks.com/help/deeplearning/ug/time-series-forecasting-using-deep-learning.html^
-- https://www.mathworks.com/help/deeplearning/ref/trainnetwork.html^
-- https://www.mathworks.com/help/deeplearning/ref/trainingoptions.html^
-- https://www.mathworks.com/help/stats/fitctree.html^
-- https://www.mathworks.com/help/stats/fitrtree.html^
-- https://www.mathworks.com/help/matlab/ref/findgroups.html^
-- https://www.mathworks.com/help/matlab/ref/splitapply.html^
-- https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.fullyconnectedlayer.html^
-- https://www.mathworks.com/help/deeplearning/ref/regressionlayer.html^
-- https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.lstmlayer.html^
-- https://www.mathworks.com/help/stats/compactclassificationtree.predict.html^
-- https://www.mathworks.com/help/deeplearning/ref/predictandupdatestate.html^
+- https://www.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html
+- https://www.mathworks.com/help/deeplearning/ug/time-series-forecasting-using-deep-learning.html
+- https://www.mathworks.com/help/deeplearning/ref/trainnetwork.html
+- https://www.mathworks.com/help/deeplearning/ref/trainingoptions.html
+- https://www.mathworks.com/help/stats/fitctree.html
+- https://www.mathworks.com/help/stats/fitrtree.html
+- https://www.mathworks.com/help/matlab/ref/findgroups.html
+- https://www.mathworks.com/help/matlab/ref/splitapply.html
+- https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.fullyconnectedlayer.html
+- https://www.mathworks.com/help/deeplearning/ref/regressionlayer.html
+- https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.lstmlayer.html
+- https://www.mathworks.com/help/stats/compactclassificationtree.predict.html
+- https://www.mathworks.com/help/deeplearning/ref/predictandupdatestate.html
 
 #### 6.1.3.Other
 
-- https://www.kaggle.com/c/competitive-data-science-predict-future-sales^
-- https://www.wikiwand.com/en/Studentized_residual^
-- https://www.wikiwand.com/tr/Long_short-term_memory^
-- https://www.wikiwand.com/en/Recurrent_neural_network^
+- https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+- https://www.wikiwand.com/en/Studentized_residual
+- https://www.wikiwand.com/tr/Long_short-term_memory
+- https://www.wikiwand.com/en/Recurrent_neural_network
 - https://www.wikiwand.com/en/Decision_tree_learning
 
 
